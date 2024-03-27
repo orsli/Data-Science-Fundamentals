@@ -13,10 +13,10 @@ The edited Jupyter Notebooks were distributed by PD Dr. Sigve Haug through the [
 * working with Jupyter notebooks on google colab
 * implementing algorithms with Python
 * performing data input, output, indexing, filtering and sorting with Python and Pandas
-* performing descriptive statistics and visualization of data with Pytho
+* performing descriptive statistics and visualization of data with Python
 * performing numerical integration, ODE solving and fitting with Python
-* manipulating text and perform automatized file management
+* manipulating text and performing automatized file management
 * using HPC systems on Linux
-* performing basic image processing with Pytho
+* performing basic image processing with Python
 * performing basic fitting and optimisation with Python
 * performing basic inferential statistics with Python
